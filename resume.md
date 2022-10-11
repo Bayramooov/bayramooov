@@ -2,10 +2,7 @@
 ### Middle full-stack web developer | Tashkent, Uzbekistan
 [GitHub](https://github.com/bayramooov) | [LinkedIn](https://www.linkedin.com/in/sardorbayramov/) | [Instagram](https://www.instagram.com/_mr.sardor/) | [Telegram](https://t.me/Bayramov_S) | [Email](mailto:bayramovsardor@gmail.com)
 
-Built Web Applications for government organizations.
-
-<br>
-
+Built Web Applications for government organizations.<br>
 Currently, developing an internal framework for web application in a Research and Development (R&D) team.
 
 <br>
