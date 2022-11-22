@@ -30,8 +30,6 @@ TECHNICAL SKILLS
 EXPERIENCE
 -
 **Freelancing. December 2020 – Present**
--
-**Front-end web developer**
 
 - Differenct freelancing jobs.
 - Node.js.
