@@ -30,7 +30,7 @@ TECHNICAL SKILLS
 EXPERIENCE
 -
 **Freelancing. December 2020 – Present**
-
+-
 - Differenct freelancing jobs.
 - Node.js.
 - Telegram bot API.
