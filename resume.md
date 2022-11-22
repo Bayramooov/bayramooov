@@ -1,6 +1,6 @@
 # Sardor Bayramov
 ### Middle full-stack web developer | Tashkent, Uzbekistan
-[GitHub](https://github.com/bayramooov) | [LinkedIn](https://www.linkedin.com/in/sardorbayramov/) | [Instagram](https://www.instagram.com/_mr.sardor/) | [Telegram](https://t.me/Bayramov_S) | [Email](mailto:bayramovsardor@gmail.com)
+[GitHub](https://github.com/bayramooov) | [LinkedIn](https://www.linkedin.com/in/sardorbayramov/) | [Telegram](https://t.me/Bayramov_S) | [Email](mailto:bayramovsardor@gmail.com)
 
 Built Web Applications for government organizations.<br>
 Currently, developing an internal framework for web application in a Research and Development (R&D) team.
@@ -18,6 +18,7 @@ TECHNICAL SKILLS
 - Advanced CSS + HTML
 - Node.js + Express
 - Typescript
+- Golang
 - Oracle SQL
 - Oracle PL/SQL
 - Crypto (SHA256, ENCR/DECR, Digital signature, RSA...)
@@ -28,6 +29,18 @@ TECHNICAL SKILLS
 
 EXPERIENCE
 -
+**Freelancing. December 2020 – Present**
+-
+**Front-end web developer**
+
+- Differenct freelancing jobs.
+- Node.js.
+- Telegram bot API.
+- Google-Scripts API.
+- Web Apps.
+
+<br>
+
 **Green White Solutions. February 2020 – Present**
 -
 
